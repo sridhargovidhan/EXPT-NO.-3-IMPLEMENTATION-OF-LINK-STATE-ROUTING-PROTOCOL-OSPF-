@@ -28,6 +28,7 @@ Pc With Cisco Packet Tracer
 
 
 # PROCEDURE
+```
 STEP 1: Open a Packet Tracer Software.
 STEP 2: Drag two 2900 Switches, two Cisco 1800 Routers, four PC Terminals from tool bar and drop it in work area.
 STEP 3: Connect all the PC Terminals and Routers through Switches as shown in the network diagram using CAT 6 Patch cables.
@@ -37,6 +38,7 @@ STEP 8: Configure OSPF in Delhi router, Save configuration and restart Delhi rou
 STEP 9: Configure OSPF in Chennai router, Save configuration and restart Chennai router.
 STEP 10: Verify the connectivity between PC Terminals in different networks using Ping command.
 STEP 11: Check the routing table in Delhi router and Chennai router using show ip route command
+```
 
 # OUTPUT
 <img width="1280" height="726" alt="image" src="https://github.com/user-attachments/assets/39610f8d-51c3-4981-8739-4eaa86aa8130" />
